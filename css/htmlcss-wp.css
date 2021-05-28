@@ -1,0 +1,80 @@
+  /* Generali */
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Utili */
+/* .light-blue{
+    background-color: #ABCFE7;
+} */
+
+body{
+    max-width: 1200px;
+    margin: 0 auto; 
+}
+
+header{
+    height: 70px;
+    margin-top:20px;
+    
+}
+#logo{
+    width: 160px;
+    border-right:#f3f3f3 solid 1px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    
+}
+ li {
+    list-style: none;
+    text-transform: uppercase;
+    display: inline;
+   
+} 
+
+/* .small{
+    background-color: #ABCFE7;
+    width:20% ;
+    height: 450px;
+    float: left;
+    margin-top:15px;
+} */
+
+/* #big{
+    width: calc(60% - 30px);
+    height: 450px;
+    background-color: #ABCFE7;
+    float: left;
+    margin:15px;
+ 
+} */
+
+
+/* #gold{
+    height: 450px;
+    background-color: #E1D67A;
+    margin: 20px 0;
+} */
+
+/* main{
+    background-color:#0086FF;
+}
+
+
+section{
+    height: 50px;  
+   
+}
+footer{ 
+    height: 50px;
+    background-color: #8801FE;
+    margin-top: 10px;
+}  */
